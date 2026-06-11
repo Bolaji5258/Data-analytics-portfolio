@@ -16,6 +16,9 @@ I am an aspiring Data Analyst with skills in:
 ## Projects
 
 ### 1. Iris EDA Project
+
+This project explores the Iris flower dataset using Python, Pandas, and Matplotlib. The objective was to clean the dataset, analyze species distribution, and create visualizations to understand relationships between petal measurements.
+
 Tools Used:
 - Python
 - Pandas
