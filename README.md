@@ -29,9 +29,9 @@ Project Highlights:
 - Identified relationships between petal measurements
 
 Files:
-- Iris_EDA_Project.ipynb
-- Iris_EDA_Project.pdf
-- Iris_EDA_Project.html
+- [Jupyter Notebook](./Iris_EDA_Project.ipynb)
+- [PDF Report](./Iris_EDA_Project.pdf)
+- [HTML Report](./Iris_EDA_Project.html)
 
 ## Upcoming Projects
 - Sales Data Analysis
