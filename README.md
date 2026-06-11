@@ -1,2 +1,40 @@
-# Data-analytics-portfolio
-My Data Analytics Portfolio Projects using Python, SQL, Excel and Power BI.
+# Bolaji Odulate's Data Analytics Portfolio
+
+Welcome to my Data Analytics Portfolio.
+
+## About Me
+I am an aspiring Data Analyst with skills in:
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+## Projects
+
+### 1. Iris EDA Project
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+Project Highlights:
+- Performed data cleaning
+- Analyzed species distribution
+- Created visualizations
+- Identified relationships between petal measurements
+
+Files:
+- Iris_EDA_Project.ipynb
+- Iris_EDA_Project.pdf
+- Iris_EDA_Project.html
+
+## Upcoming Projects
+- Sales Data Analysis
+- SQL Data Exploration
+- Power BI Dashboard
+- Excel Business Analysis
