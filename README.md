@@ -2,67 +2,155 @@
 
 ## Data Analyst | Python | SQL | Excel | Power BI
 
-Welcome to my Data Analytics Portfolio.
+Welcome to my Data Analytics Portfolio!
 
-This repository contains projects demonstrating my skills in data cleaning, exploratory data analysis (EDA), data visualization, and machine learning using Python.
+I'm a passionate Data Analyst with a background in Accounting and experience transforming raw data into meaningful insights through data cleaning, visualization, exploratory data analysis (EDA), and machine learning. This repository showcases projects demonstrating my analytical and technical skills using Python, SQL, Excel, and Power BI.
 
 ---
 
-## 🛠️ Skills
+# 🚀 About Me
 
+- 📊 Data Analyst passionate about solving business problems with data
+- 🐍 Python for Data Analysis & Machine Learning
+- 🗄️ SQL for querying and managing data
+- 📈 Excel & Power BI for dashboards and reporting
+- 📚 Currently learning advanced SQL, Machine Learning, and Statistics
+- 📚 Continuously learning advanced analytics and AI
+
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming
 - Python
 - SQL
-- Microsoft Excel
-- Power BI
+
+### Data Analysis
 - Pandas
 - NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+
+### Data Visualization
 - Matplotlib
-- Seaborn
+- Power BI
+- Microsoft Excel
+
+### Machine Learning
+- Scikit-learn
+- Linear Regression
+
+### Tools
+- Git
+- GitHub
 - Jupyter Notebook
-- Git & GitHub
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🏠 House Price Prediction
-A machine learning project using Linear Regression to predict house prices based on housing characteristics.
+## 🏠 House Price Prediction using Python
 
-**Skills:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+Machine Learning project that predicts house prices using Linear Regression.
 
-📁 Folder: `House-Price-Prediction`
+**Skills Used**
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+- EDA
 
----
-
-### 🌸 Iris Exploratory Data Analysis
-Exploratory Data Analysis of the Iris dataset using Python.
-
-**Skills:** Python, Pandas, Matplotlib, Seaborn
-
-📁 Folder: `Iris-EDA-Project`
+📁 Project:
+https://github.com/Bolaji5258/Data-analytics-portfolio/tree/main/House-Price-Prediction
 
 ---
 
-### 📈 Stock Prices Exploratory Data Analysis
-Analyzed historical stock market data to identify trends, correlations, and trading patterns.
+## 🌸 Iris Dataset Exploratory Data Analysis
 
-**Skills:** Python, Pandas, Matplotlib
+Performed exploratory data analysis on the Iris dataset to identify patterns, relationships, and class distributions.
 
-📁 Folder: `Stock-Price-EDA`
+**Skills Used**
+- Python
+- Pandas
+- Matplotlib
+- Data Visualization
 
----
-
-## 🎯 Career Goal
-
-I'm passionate about transforming data into actionable insights and continuously improving my skills in data analytics, business intelligence, and machine learning.
-
----
-
-## 📫 Connect With Me
-
-- **GitHub:** https://github.com/Bolaji5258
-- **LinkedIn:** https://linkedin.com/in/bolaji-odulate-a26449204
+📁 Project:
+https://github.com/Bolaji5258/Data-analytics-portfolio/tree/main/Iris-EDA-Project
 
 ---
 
-⭐ Thank you for visiting my portfolio!
+## 📈 Stock Price Exploratory Data Analysis
+
+Analyzed historical stock market data to discover trends, trading volume patterns, and correlations.
+
+**Skills Used**
+- Python
+- Pandas
+- Matplotlib
+- EDA
+
+📁 Project:
+https://github.com/Bolaji5258/Data-analytics-portfolio/tree/main/Stock-Price-EDA
+
+---
+
+## 😊 Sentiment Analysis
+
+Natural Language Processing project that classifies text sentiment using machine learning techniques.
+
+**Skills Used**
+- Python
+- NLP
+- TF-IDF
+- Logistic Regression
+
+📁 Repository:
+https://github.com/Bolaji5258/Sentiment-Analysis
+
+---
+
+# 🎯 Current Learning Goals
+
+I'm currently expanding my skills in:
+
+- Advanced SQL
+- Power BI Dashboards
+- Machine Learning
+- Data Engineering
+- Cloud Data Analytics
+
+---
+
+# 📫 Connect With Me
+
+**LinkedIn**
+
+https://www.linkedin.com/in/bolaji-odulate-a26449204
+
+**GitHub**
+
+https://github.com/Bolaji5258
+
+---
+
+# ⭐ Repository Structure
+
+```
+Data-analytics-portfolio
+│
+├── House-Price-Prediction
+├── Iris-EDA-Project
+├── Stock-Price-EDA
+├── LICENSE
+└── README.md
+```
+
+---
+
+## Thanks for visiting my portfolio!
+
+If you find these projects helpful or interesting, consider giving the repository a ⭐.
+
+I'm always open to feedback, collaboration, and new opportunities in Data Analytics.
