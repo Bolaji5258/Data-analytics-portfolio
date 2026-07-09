@@ -1,43 +1,44 @@
-# Bolaji Odulate's Data Analytics Portfolio
+# 🏠 House Price Prediction using Python
 
-Welcome to my Data Analytics Portfolio.
+## Project Overview
 
-## About Me
-I am an aspiring Data Analyst with skills in:
+This project explores the Boston Housing dataset using Exploratory Data Analysis (EDA) and Machine Learning. A Linear Regression model was developed to predict house prices based on housing characteristics.
 
-- Python
-- SQL
-- Excel
-- Power BI
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+## Objectives
 
-## Projects
+- Perform Exploratory Data Analysis (EDA)
+- Visualize important relationships
+- Train a Linear Regression model
+- Evaluate model performance
+- Save the trained model
 
-### 1. Iris EDA Project
+## Technologies Used
 
-This project explores the Iris flower dataset using Python, Pandas, and Matplotlib. The objective was to clean the dataset, analyze species distribution, and create visualizations to understand relationships between petal measurements.
-
-Tools Used:
 - Python
 - Pandas
+- NumPy
 - Matplotlib
+- Seaborn
+- Scikit-learn
 - Jupyter Notebook
 
-Project Highlights:
-- Performed data cleaning
-- Analyzed species distribution
-- Created visualizations
-- Identified relationships between petal measurements
+## Files Included
 
-Files:
-- [Jupyter Notebook](./Iris_EDA_Project.ipynb)
-- [PDF Report](./Iris_EDA_Project.pdf)
-- [HTML Report](./Iris_EDA_Project.html)
+- House prediction.ipynb
+- House prediction.html
+- House prediction.pdf
+- house_price_model.pkl
 
-## Upcoming Projects
-- Sales Data Analysis
-- SQL Data Exploration
-- Power BI Dashboard
-- Excel Business Analysis
+## Key Findings
+
+- The dataset contains 506 observations and 14 features.
+- No missing values were found.
+- The average number of rooms (RM) showed a strong positive relationship with house prices.
+- Correlation analysis identified important predictors of house values.
+- Linear Regression achieved good predictive performance.
+
+## Project Author
+
+**Bolaji Odulate**
+
+Data Analyst | Python | SQL | Excel | Power BI
